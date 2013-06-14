@@ -47,9 +47,9 @@
                             <li id="pagination_next" class="disabled"><span>Next&nbsp;»</li>
                         {else}
                             <li id="pagination_next"><a href="{$link->getPageLink('prettyPhotoGallery.php')}?p={$nextPage}">Next&nbsp;»</a></li>
-                        {/if}
-                    {/if}
+                        {/if}                   
                     </ul>
+		    {/if}
                 </div>	
         </div>		
 </form>
