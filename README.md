@@ -9,4 +9,5 @@ To download this free PrestaShop module please visit http://www.eulaviolation.co
 install the module from the link an replace:
 
 /modules/prettyPhotoView/PrettyPhotoView.tpl
+
 /controllers/PrettyPhotoViewController.php
