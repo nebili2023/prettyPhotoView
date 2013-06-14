@@ -1,4 +1,4 @@
-prettyPhotoView--pagination-update-
+prettyPhotoView for PrestaShop
 ===================================
 
 This is just an update with pagination on Andrija Jambrović's PrestaShop gallery module “prettyPhotoView”.
