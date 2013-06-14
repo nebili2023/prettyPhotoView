@@ -6,7 +6,7 @@ This is just an update with pagination on Andrija Jambrović's PrestaShop galler
 To download this free PrestaShop module please visit http://www.eulaviolation.com/prettyphotoviewinstallation/
 
 
-install the module from the link an replace:
+install the module from the link and replace:
 
 /modules/prettyPhotoView/PrettyPhotoView.tpl
 
