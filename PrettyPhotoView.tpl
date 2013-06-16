@@ -20,8 +20,8 @@
 					<li>
 						{if $my_item->img}
 							<a href="{$path}{$my_item->img}" rel="prettyPhoto[pp_gal]" title="{$my_item->text}" style="color:transparent;">
-								<input type="hidden" value="&lt;a href=&quot;{$my_item->url}&quot;&gt;{$my_item->$text}&lt;/a&gt;" />
-								<img src="{$path}{$my_item->thumb}" alt="{$my_item->$text}" title="{$my_item->$text}" style="margin: 5px;"/>
+								<input type="hidden" value="&lt;a href=&quot;{$my_item->url}&quot;&gt;{$my_item->text}&lt;/a&gt;" />
+								<img src="{$path}{$my_item->thumb}" alt="{$my_item->text}" title="{$my_item->text}" style="margin: 5px;"/>
 							</a>
 						{/if}
 					</li>
