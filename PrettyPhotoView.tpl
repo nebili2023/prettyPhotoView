@@ -29,7 +29,7 @@
 			</ul>
 		</div>
                 <div id="pahination" class="pagination">
-                    {if $pagesTotal>1 }
+                    {if $pagesTotal>1}
                     <ul class="pagination">
                         {if $previousPage eq 0}
                             <li id="pagination_previous" class="disabled"><span>«&nbsp;Previous</span></li>
